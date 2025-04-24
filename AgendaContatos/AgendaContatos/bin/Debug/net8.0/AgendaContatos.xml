@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AgendaContatos</name>
+    </assembly>
+    <members>
+        <member name="M:AgendaContatos.Controllers.ContatosController.GetContatos">
+            <summary>
+            Retorna todos os contatos cadastrados no Banco de Dados.
+            </summary>
+        </member>
+        <member name="M:AgendaContatos.Controllers.ContatosController.GetContato(System.Int32)">
+            <summary>
+            Retorna um contato específico pelo ID.
+            </summary>
+        </member>
+        <member name="M:AgendaContatos.Controllers.ContatosController.PostContato(AgendaContatos.DTOs.ContatoCreateDTO)">
+            <summary>
+            Cria um novo contato.
+            </summary>
+        </member>
+        <member name="M:AgendaContatos.Controllers.ContatosController.PutContato(System.Int32,AgendaContatos.DTOs.ContatoCreateDTO)">
+            <summary>
+            Atualiza um contato existente.
+            </summary>
+        </member>
+        <member name="M:AgendaContatos.Controllers.ContatosController.DeleteContato(System.Int32)">
+            <summary>
+            Deleta um contato pelo ID e o move para a tabela de backup.
+            </summary>
+        </member>
+        <member name="M:AgendaContatos.Controllers.ContatosController.ListarBackups">
+            <summary>
+            Lista todos os contatos que foram excluidos e movidos para a tabela de backup.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -18,12 +18,18 @@ namespace AgendaContatos.Controllers
             _context = context;
         }
 
+        /// <summary>
+        /// Retorna todos os contatos cadastrados no Banco de Dados.
+        /// </summary>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Contato>>> GetContatos()
         {
             return await _context.Contatos.ToListAsync();
         }
 
+        /// <summary>
+        /// Retorna um contato específico pelo ID.
+        /// </summary>
         [HttpGet("{id}")]
         public async Task<ActionResult<Contato>> GetContato(int id)
         {
@@ -33,6 +39,9 @@ namespace AgendaContatos.Controllers
             return contato;
         }
 
+        /// <summary>
+        /// Cria um novo contato.
+        /// </summary>
         [HttpPost]
         public async Task<ActionResult<Contato>> PostContato(ContatoCreateDTO dto)
         {
@@ -53,6 +62,9 @@ namespace AgendaContatos.Controllers
             return CreatedAtAction(nameof(GetContato), new { id = contato.Id }, contato);
         }
 
+        /// <summary>
+        /// Atualiza um contato existente.
+        /// </summary>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutContato(int id, ContatoCreateDTO dto)
         {
@@ -70,6 +82,9 @@ namespace AgendaContatos.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Deleta um contato pelo ID e o move para a tabela de backup.
+        /// </summary>
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteContato(int id)
         {
@@ -81,6 +96,9 @@ namespace AgendaContatos.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Lista todos os contatos que foram excluidos e movidos para a tabela de backup.
+        /// </summary>
         [HttpGet("backup")]
         public async Task<IActionResult> ListarBackups()
         {

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\ProjetosVS\\AgendaContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,6 +15,34 @@
       "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\agendacontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\agendacontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\sql\\criar_tabelas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\sql\\criar_tabelas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\sql\\massa_teste.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\sql\\massa_teste.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\sql\\procedure_backup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\sql\\procedure_backup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\dtos\\contatocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\dtos\\contatocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|f:\\projetosvs\\agendacontatos\\agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E34A0CE-2AB6-4AE6-A1F1-793495ECB1C5}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +70,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AgendaContatos",
+              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\AgendaContatos.csproj",
+              "RelativeDocumentMoniker": "AgendaContatos\\AgendaContatos.csproj",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\AgendaContatos.csproj",
+              "RelativeToolTip": "AgendaContatos\\AgendaContatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T23:20:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\index.html",
               "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
               "RelativeToolTip": "AgendaContatos\\wwwroot\\index.html",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwFQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-24T20:05:59.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Program.cs",
               "RelativeDocumentMoniker": "AgendaContatos\\Program.cs",
               "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Program.cs",
               "RelativeToolTip": "AgendaContatos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T17:56:48.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\appsettings.json",
               "RelativeDocumentMoniker": "AgendaContatos\\appsettings.json",
               "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\appsettings.json",
               "RelativeToolTip": "AgendaContatos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T17:46:49.373Z",
+              "WhenOpened": "2025-04-24T17:46:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "procedure_backup.sql",
+              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\procedure_backup.sql",
+              "RelativeDocumentMoniker": "AgendaContatos\\sql\\procedure_backup.sql",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\procedure_backup.sql",
+              "RelativeToolTip": "AgendaContatos\\sql\\procedure_backup.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-24T22:23:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "massa_teste.sql",
+              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\massa_teste.sql",
+              "RelativeDocumentMoniker": "AgendaContatos\\sql\\massa_teste.sql",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\massa_teste.sql",
+              "RelativeToolTip": "AgendaContatos\\sql\\massa_teste.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-24T22:23:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatosController.cs",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatosController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:07:46.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "criar_tabelas.sql",
+              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\criar_tabelas.sql",
+              "RelativeDocumentMoniker": "AgendaContatos\\sql\\criar_tabelas.sql",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\sql\\criar_tabelas.sql",
+              "RelativeToolTip": "AgendaContatos\\sql\\criar_tabelas.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-24T22:23:09.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Data\\AgendaContext.cs",
               "RelativeDocumentMoniker": "AgendaContatos\\Data\\AgendaContext.cs",
@@ -101,38 +175,23 @@
               "RelativeToolTip": "AgendaContatos\\Data\\AgendaContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwCEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T17:43:13.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T17:43:13.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatosController.cs",
-              "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
-              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatosController.cs",
-              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Controllers\\ContatosController.cs",
-              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatosController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwFMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:07:46.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "script.js",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "AgendaContatos\\wwwroot\\script.js",
-              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js*",
-              "RelativeToolTip": "AgendaContatos\\wwwroot\\script.js*",
+              "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
+              "RelativeToolTip": "AgendaContatos\\wwwroot\\script.js",
               "ViewState": "AgIAAIcAAAAAAAAAAAAAwJYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-24T20:09:08.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T20:09:08.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ContatoCreateDTO.cs",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\DTOs\\ContatoCreateDTO.cs",
               "RelativeDocumentMoniker": "AgendaContatos\\DTOs\\ContatoCreateDTO.cs",
@@ -140,25 +199,23 @@
               "RelativeToolTip": "AgendaContatos\\DTOs\\ContatoCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:07:00.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T19:07:00.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AgendaContatos\\Properties\\launchSettings.json",
               "ToolTip": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Properties\\launchSettings.json",
               "RelativeToolTip": "AgendaContatos\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T18:45:24.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T18:45:24.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Contato.cs",
               "DocumentMoniker": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "AgendaContatos\\Models\\Contato.cs",
@@ -166,8 +223,7 @@
               "RelativeToolTip": "AgendaContatos\\Models\\Contato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T17:31:29.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T17:31:29.635Z"
             }
           ]
         }

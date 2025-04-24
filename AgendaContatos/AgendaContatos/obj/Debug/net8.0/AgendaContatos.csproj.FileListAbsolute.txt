@@ -50,3 +50,5 @@ F:\ProjetosVS\AgendaContatos\AgendaContatos\obj\Debug\net8.0\AgendaContatos.pdb
 F:\ProjetosVS\AgendaContatos\AgendaContatos\obj\Debug\net8.0\AgendaContatos.genruntimeconfig.cache
 F:\ProjetosVS\AgendaContatos\AgendaContatos\obj\Debug\net8.0\ref\AgendaContatos.dll
 F:\ProjetosVS\AgendaContatos\AgendaContatos\bin\Debug\net8.0\AgendaContatos.staticwebassets.runtime.json
+F:\ProjetosVS\AgendaContatos\AgendaContatos\bin\Debug\net8.0\AgendaContatos.xml
+F:\ProjetosVS\AgendaContatos\AgendaContatos\obj\Debug\net8.0\AgendaContatos.xml

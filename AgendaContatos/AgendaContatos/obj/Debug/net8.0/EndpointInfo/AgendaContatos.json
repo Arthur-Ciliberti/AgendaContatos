@@ -10,6 +10,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Retorna todos os contatos cadastrados no Banco de Dados.",
         "responses": {
           "200": {
             "description": "OK",
@@ -46,6 +47,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Cria um novo contato.",
         "requestBody": {
           "content": {
             "application/json": {
@@ -94,6 +96,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Retorna um contato específico pelo ID.",
         "parameters": [
           {
             "name": "id",
@@ -132,6 +135,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Atualiza um contato existente.",
         "parameters": [
           {
             "name": "id",
@@ -172,6 +176,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Deleta um contato pelo ID e o move para a tabela de backup.",
         "parameters": [
           {
             "name": "id",
@@ -195,6 +200,7 @@
         "tags": [
           "Contatos"
         ],
+        "summary": "Lista todos os contatos que foram excluidos e movidos para a tabela de backup.",
         "responses": {
           "200": {
             "description": "OK"
