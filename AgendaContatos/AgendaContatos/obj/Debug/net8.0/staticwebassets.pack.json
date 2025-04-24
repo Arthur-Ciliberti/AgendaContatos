@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgendaContatos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgendaContatos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AgendaContatos.props",
+      "PackagePath": "build\\AgendaContatos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgendaContatos.props",
+      "PackagePath": "buildMultiTargeting\\AgendaContatos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgendaContatos.props",
+      "PackagePath": "buildTransitive\\AgendaContatos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

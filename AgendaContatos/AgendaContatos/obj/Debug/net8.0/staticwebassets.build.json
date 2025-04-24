@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "to869/4/L8Jlua1/NEr8TpZ+2Qtzdg9u8s4UKw6Fx/g=",
+  "Source": "AgendaContatos",
+  "BasePath": "_content/AgendaContatos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AgendaContatos\\wwwroot",
+      "Source": "AgendaContatos",
+      "ContentRoot": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\",
+      "BasePath": "_content/AgendaContatos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
+      "SourceId": "AgendaContatos",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\",
+      "BasePath": "_content/AgendaContatos",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sefgjegal3",
+      "Integrity": "BB3oNZiVASQgOAQHfW4EeZEIhjbjoyeakGXCLx4iEvg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
+      "SourceId": "AgendaContatos",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\",
+      "BasePath": "_content/AgendaContatos",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mgy9zx688u",
+      "Integrity": "tp2THS4nDUwpv83SARunIlPpcCbZcaNFUUiPRG1LV5I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BB3oNZiVASQgOAQHfW4EeZEIhjbjoyeakGXCLx4iEvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 22:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BB3oNZiVASQgOAQHfW4EeZEIhjbjoyeakGXCLx4iEvg="
+        }
+      ]
+    },
+    {
+      "Route": "index.sefgjegal3.html",
+      "AssetFile": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BB3oNZiVASQgOAQHfW4EeZEIhjbjoyeakGXCLx4iEvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 22:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sefgjegal3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BB3oNZiVASQgOAQHfW4EeZEIhjbjoyeakGXCLx4iEvg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tp2THS4nDUwpv83SARunIlPpcCbZcaNFUUiPRG1LV5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 22:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tp2THS4nDUwpv83SARunIlPpcCbZcaNFUUiPRG1LV5I="
+        }
+      ]
+    },
+    {
+      "Route": "script.mgy9zx688u.js",
+      "AssetFile": "F:\\ProjetosVS\\AgendaContatos\\AgendaContatos\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tp2THS4nDUwpv83SARunIlPpcCbZcaNFUUiPRG1LV5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 22:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgy9zx688u"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tp2THS4nDUwpv83SARunIlPpcCbZcaNFUUiPRG1LV5I="
+        }
+      ]
+    }
+  ]
+}
